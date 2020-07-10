@@ -1,6 +1,8 @@
-### Quem sou eu em 3 passos:
+#### Quem sou eu em 3 passos:
 
 **1.** 💉 Comunidade > _Conhecimento retido é conhecimento perdido, conhecimento compartilhado é conhecimento dobrado_<br>
+[Clique aqui para ver algumas das minhas contribuições na comunidade de Qualidade de Software](https://gist.github.com/PauloGoncalvesBH/b44805191f49558edbd6723a1f625d0f)
+
 **2.** 👂👎 Deficiente auditivo 
 
 _Deus commitando no meu projeto:_
@@ -14,16 +16,14 @@ _Meu aparelho auditivo commitando:_
 - Audição: 30%
 + Audição: 90%
 ```
-**3.** 💬 Disponível > _Sempre ajudando quem precisa_
+**3.** 💬 Disponível > _Sempre ajudando quem precisa, me chame para batermos um papo_
 
-**Me contate caso queira conversar sobre:**<br>
-**1.** Automação<br>
-**2.** Surdez<br>
-**3.** Inclusão e preconceitos (Deficiência, racismo, LGTBQIA+, etc)<br>
-**4.** Git<br>
-**5.** JS > Automação, backend em express, protractor, supertest<br>
-**6.** Open source > Pagar ou n pagar? all-contributors, readme, etc<br>
-**7.** [...]
+#### Me contate caso queira conversar sobre:
+**1.** Qualidade de software, automação, etc<br>
+**2.** Inclusão e preconceitos (Deficiência ♿, racismo, LGTBQIA+ 🌈, etc)<br>
+**3.** Comunidade<br>
+**4.** JS > Automação, backend em express, NPM, protractor, supertest, etc<br>
+**5.** Open source, Git e Github > Pagar ou n pagar? all-contributors, readme, entrega contínua, CI, etc
 
 
 <!--
