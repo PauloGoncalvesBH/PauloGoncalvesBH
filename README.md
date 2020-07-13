@@ -1,3 +1,8 @@
+[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/paulogoncalvesbh)](https://dev.to/paulogoncalvesbh)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-goncalve/)](https://www.linkedin.com/in/paulo-goncalve/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/paulorgoncalves)](https://twitter.com/paulorgoncalves)
+---
+
 #### Quem sou eu em 3 passos:
 
 **1.** 💉 Comunidade > _Conhecimento retido é conhecimento perdido, conhecimento compartilhado é conhecimento dobrado_<br>
