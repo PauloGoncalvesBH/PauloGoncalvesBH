@@ -10,17 +10,6 @@
 
 **2.** 👂👎 Deficiente auditivo 
 
-_Deus commitando no meu projeto:_
-```diff
-- Audição: 100%
-+ Audição: 30%
-```
-
-_Meu aparelho auditivo commitando:_
-```diff
-- Audição: 30%
-+ Audição: 90%
-```
 **3.** 💬 Disponível > _Sempre ajudando quem precisa, me chame para batermos um papo_
 
 #### Me contate caso queira conversar sobre:
