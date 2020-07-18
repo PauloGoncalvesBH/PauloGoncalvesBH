@@ -1,6 +1,9 @@
-[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/paulogoncalvesbh)](https://dev.to/paulogoncalvesbh)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-goncalve/)](https://www.linkedin.com/in/paulo-goncalve/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/paulorgoncalves)](https://twitter.com/paulorgoncalves)
+<p align="center">
+<a href="https://dev.to/paulogoncalvesbh"><img alt="Blog" src="https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/paulo-goncalves"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<a href="https://twitter.com/paulorgoncalves"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"></a>
+</p>
+
 ---
 
 #### Quem sou eu em 3 passos:
@@ -18,7 +21,6 @@
 **3.** Comunidade<br>
 **4.** JS > Automação, backend em express, NPM, protractor, supertest, etc<br>
 **5.** Open source, Git e Github > Pagar ou n pagar? all-contributors, readme, entrega contínua, CI, etc
-
 
 <!--
 **PauloGoncalvesBH/PauloGoncalvesBH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
