@@ -4,8 +4,6 @@
 <a href="https://twitter.com/paulorgoncalves"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white"></a>
 </p>
 
----
-
 ### Quem sou eu em 3 passos:
 
 **1.** 💉 Comunidade > _Conhecimento retido é conhecimento perdido, conhecimento compartilhado é conhecimento dobrado_<br>
