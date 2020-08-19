@@ -8,7 +8,7 @@
 ### Quem sou eu em 3 passos:
 
 **1.** 💉 Comunidade > _Conhecimento retido é conhecimento perdido, conhecimento compartilhado é conhecimento dobrado_<br>
-[Clique aqui para ver algumas das minhas contribuições na comunidade de Qualidade de Software](https://gist.github.com/PauloGoncalvesBH/b44805191f49558edbd6723a1f625d0f)
+[Clique aqui para ver algumas das minhas contribuições na comunidade de Qualidade de Software](https://github.com/PauloGoncalvesBH/contribuicoes-na-comunidade)
 
 **2.** 👂👎 Deficiente auditivo 
 
