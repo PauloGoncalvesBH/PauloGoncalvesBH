@@ -7,9 +7,9 @@
 
 <h3 align="center">Quem sou eu em 3 passos</h3>
 
-1. 💉 Comunidade > **[Clique aqui para ver algumas das minhas contribuições na comunidade de Qualidade de Software](https://github.com/PauloGoncalvesBH/contribuicoes-na-comunidade)**
+1. 💉 Comunidade e open source > **[Clique aqui para ver algumas das minhas contribuições](https://github.com/PauloGoncalvesBH/contribuicoes-na-comunidade)**
 1. 👂👎 Deficiente auditivo 
-1. 💬 Disponível > _Sempre ajudando quem precisa, me chame para batermos um papo_
+1. 💬 Disponível > _Sempre ajudando quem precisa. Me chame para batermos um papo no linkedin, e-mail, ou twitter_
 
 <h3 align="center">Textos</h3>
 
