@@ -22,10 +22,14 @@
 <h3 align="center">Me contate caso queira conversar sobre</h3>
 
 1. Qualidade de software, automação, etc<br>
-1. Inclusão e preconceitos (Deficiência ♿, racismo, LGTBQIA+ 🌈, etc)<br>
 1. Comunidade<br>
 1. JS > Automação, backend em express, NPM, protractor, supertest, etc<br>
 1. Open source, Git e Github > Pagar ou n pagar? all-contributors, readme, entrega contínua, CI, etc
+1. Deficiência auditiva ♿<br>
+
+<h3 align="center">Alguns dados da conta</h3>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=paulogoncalvesbh&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&show_icons=true&hide_title=true&theme=graywhite)
 
 <!-- <h3 align="center">Alguns projetos</h3>
 
