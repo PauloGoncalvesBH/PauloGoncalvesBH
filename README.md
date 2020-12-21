@@ -21,7 +21,7 @@
 
 <h3 align="center">Me contate caso queira conversar sobre</h3>
 
-1. Qualidade de software, automação, etc<br>
+1. Qualidade de software, automação, testes unitários, dublês de teste, clean code, etc<br>
 1. Comunidade<br>
 1. JS > Automação, backend em express, NPM, protractor, supertest, etc<br>
 1. Open source, Git e Github > Pagar ou n pagar? all-contributors, readme, entrega contínua, CI, etc
