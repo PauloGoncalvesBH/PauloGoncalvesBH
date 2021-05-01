@@ -2,7 +2,6 @@
 <a href="https://dev.to/paulogoncalvesbh"><img alt="Blog" src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 <a href="mailto:paulorochag@hotmail.com"><img alt="Outlook" src="https://img.shields.io/badge/-Outlook-0072c6?style=for-the-badge&logo=microsoft&logoColor=white&link=mailto:paulorochag@hotmail.com"></a>
 <a href="https://www.linkedin.com/in/paulo-goncalves"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-<a href="https://twitter.com/paulorgoncalves"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white"></a>
 </p>
 
 <h3 align="center">Quem sou eu em 3 passos</h3>
