@@ -23,6 +23,7 @@
 
 1. [(Avançado) Executando centenas de testes E2E em poucos segundos com AWS Lambda](https://github.com/PauloGoncalvesBH/running-playwright-on-aws-lambda)
 1. [(Avançado) Implementação do 'nirvana' do teste de contrato com Pact](https://github.com/PauloGoncalvesBH/nirvana-teste-de-contrato)
+1. [(Intermediário) Demonstração de implementação de teste unitário em aplicação Serverless](https://github.com/PauloGoncalvesBH/lambda-unit-test)
 1. [(Intermediário) Teste de mutação 👽: O que é e como fica a cobertura de código?](https://github.com/PauloGoncalvesBH/teste-de-mutacao)
 1. [(Intermediário) Implementação de um spy, mock, expect e estrutura dos testes sem usar lib](https://github.com/PauloGoncalvesBH/my-framework-test)
 1. [(Intermediário) Entrega contínua no ServeRest 🚀](https://github.com/PauloGoncalvesBH/entrega-continua-no-serverest)
