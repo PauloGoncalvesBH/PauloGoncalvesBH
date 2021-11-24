@@ -21,7 +21,7 @@ _[:brazil: Clique aqui para acessar a versão em português.](./README.pt-br.md)
 1. 💬 Available > _Always helping those who need help. Call me to chat on linkedin or e-mail_
 1. Member of [Agile Testers](https://agiletesters.com.br/) group, focused on disseminating knowledge to the QA community without financial return (_[MTC 21](https://minastestingconference.com.br/) gold sponsor, donation of technical books, podcast QAnsei, donation to ONGs, books translation, etc_).
 
-<h3 align="center">Some materiais</h3>
+<h3 align="center">Some materials</h3>
 
 1. [(Advanced) Running hundreds of Playwright E2E tests in a few seconds on AWS Lambda](https://github.com/PauloGoncalvesBH/running-playwright-on-aws-lambda)
 1. [(Advanced) Implementation of contract test 'nirvana' with Pact](https://github.com/PauloGoncalvesBH/nirvana-teste-de-contrato)
