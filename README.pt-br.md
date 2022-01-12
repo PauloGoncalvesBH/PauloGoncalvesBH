@@ -11,14 +11,6 @@
  </a>
 </p>
 
-<h3 align="center">Quem sou eu?</h3>
-
-1. 💉 Criador de conteúdo de QA gratuito e apaixonado por open source > **[Clique aqui para ver algumas das minhas contribuições](https://github.com/PauloGoncalvesBH/contribuicoes-na-comunidade)**
-1. Membro do [Alura Stars](https://www.alura.com.br/stars) como reconhecimento pela minha atuação em compartilhamento de conhecimento.
-1. 👂👎 Deficiente auditivo
-1. 💬 Disponível > _Sempre ajudando quem precisa. Me chame para batermos um papo no linkedin, e-mail, ou twitter_
-1. Membro do coletivo [Agile Testers](https://agiletesters.com.br/), com foco em disseminar conhecimento para a comunidade de QA sem retorno financeiro (_patrocinador ouro do [MTC 21](https://minastestingconference.com.br/), doação de livros técnicos, podcast QAnsei, doação para ONGs, tradução de livros, etc_).
-
 <h3 align="center">Materiais</h3>
 
 1. [(Avançado) Executando centenas de testes E2E em poucos segundos com AWS Lambda](https://github.com/PauloGoncalvesBH/running-playwright-on-aws-lambda)
@@ -28,6 +20,14 @@
 1. [(Intermediário) Implementação de um spy, mock, expect e estrutura dos testes sem usar lib](https://github.com/PauloGoncalvesBH/my-framework-test)
 1. [(Intermediário) Entrega contínua no ServeRest 🚀](https://github.com/PauloGoncalvesBH/entrega-continua-no-serverest)
 1. [(Iniciante) Aprenda conceitos de git, não comandos](https://github.com/PauloGoncalvesBH/treinamento-git)
+
+<h3 align="center">Quem sou eu?</h3>
+
+1. 💉 Criador de conteúdo de QA gratuito e apaixonado por open source > **[Clique aqui para ver algumas das minhas contribuições](https://github.com/PauloGoncalvesBH/contribuicoes-na-comunidade)**
+1. Membro do [Alura Stars](https://www.alura.com.br/stars) como reconhecimento pela minha atuação em compartilhamento de conhecimento.
+1. 👂👎 Deficiente auditivo
+1. 💬 Disponível > _Sempre ajudando quem precisa. Me chame para batermos um papo no linkedin, e-mail, ou twitter_
+1. Membro do coletivo [Agile Testers](https://agiletesters.com.br/), com foco em disseminar conhecimento para a comunidade de QA sem retorno financeiro (_patrocinador ouro do [MTC 21](https://minastestingconference.com.br/), doação de livros técnicos, podcast QAnsei, doação para ONGs, tradução de livros, etc_).
 
 Tradução do livro _Agile Testing Condensed_:
 
