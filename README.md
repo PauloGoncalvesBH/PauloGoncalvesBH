@@ -16,7 +16,7 @@ _[:brazil: Clique aqui para acessar a versão em português.](./README.pt-br.md)
 <h3 align="center">Some materials</h3>
 
 1. [(Advanced) Running hundreds of Playwright E2E tests in a few seconds on AWS Lambda](https://github.com/PauloGoncalvesBH/running-playwright-on-aws-lambda)
-1. [(Advanced) Implementation of contract test 'nirvana' with Pact](https://github.com/PauloGoncalvesBH/nirvana-teste-de-contrato)
+1. [(Advanced) Implementation of contract test 'nirvana' with Pact](https://github.com/PauloGoncalvesBH/contract-test-nirvana)
 1. [(Intermediary) Demonstration of unit test implementation in Serverless application](https://github.com/PauloGoncalvesBH/lambda-unit-test)
 1. [(Intermediary) Learn Test Driven Development (TDD) in practice](https://github.com/PauloGoncalvesBH/aprenda-tdd-na-pratica)
 1. [(Intermediary) Mutation test 👽: What's and how about code coverage?](https://github.com/PauloGoncalvesBH/teste-de-mutacao)
