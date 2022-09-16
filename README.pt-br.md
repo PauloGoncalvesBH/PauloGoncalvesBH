@@ -14,7 +14,7 @@
 <h3 align="center">Materiais</h3>
 
 1. [(Avançado) Executando centenas de testes E2E em poucos segundos com AWS Lambda](https://github.com/PauloGoncalvesBH/running-playwright-on-aws-lambda)
-1. [(Avançado) Implementação do 'nirvana' do teste de contrato com Pact]([https://github.com/PauloGoncalvesBH/nirvana-teste-de-contrat](https://github.com/PauloGoncalvesBH/contract-test-nirvana))
+1. [(Avançado) Implementação do 'nirvana' do teste de contrato com Pact](https://github.com/PauloGoncalvesBH/contract-test-nirvana)
 1. [(Intermediário) Demonstração de implementação de teste unitário em aplicação Serverless](https://github.com/PauloGoncalvesBH/lambda-unit-test)
 1. [(Intermediário) Aprenda Test Driven Development (TDD) na prática](https://github.com/PauloGoncalvesBH/aprenda-tdd-na-pratica)
 1. [(Intermediário) Teste de mutação 👽: O que é e como fica a cobertura de código?](https://github.com/PauloGoncalvesBH/teste-de-mutacao)
