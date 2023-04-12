@@ -33,3 +33,5 @@ Other materials such as lives, podcast participation, repositories and communiti
 <h3 align="center">Some account details</h3>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=paulogoncalvesbh&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&show_icons=true&hide_title=true&theme=graywhite)
+
+![](https://komarev.com/ghpvc/?username=paulogoncalvesbh)
